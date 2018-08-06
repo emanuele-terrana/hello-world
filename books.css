@@ -30,8 +30,7 @@ img:hover{
 }
 
 body {
-	background-color: #000060;
-	background-image: url(/Pics/night.jpg);
+	background-image: url("/Pics/night.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: sans-serif;
