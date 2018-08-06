@@ -30,7 +30,8 @@ img:hover{
 }
 
 body {
-	background-image: url("libri/Pics/night.jpg");
+	background-color: #000060;
+	background-image: url("Pics/night.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: sans-serif;
