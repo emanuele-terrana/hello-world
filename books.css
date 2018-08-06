@@ -1,0 +1,53 @@
+.comenuovo{
+	border: 5px solid rgb(0, 252, 16)
+}
+
+.ottimo{
+	border: 5px solid rgb(3, 195, 249)
+}
+
+.buono{
+	border: 5px solid rgb(255, 129, 0)
+}
+
+.usurato{
+	border: 5px solid rgb(255, 7, 0)
+}
+img {
+
+	width: 15%;
+	
+	margin: 1.2%;
+ 
+	padding: 2px;
+}
+
+
+body {
+	background-image: url("night.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: white
+}
+
+h2 {
+	color: white
+}
+
+
+h3 {
+	color: white
+}
+
+p{color: white}
+
+.whatsapp{
+	height: 32px;
+	width: 32px;
+	margin: 0px;
+	padding: 0px;
+}
