@@ -24,7 +24,7 @@ img {
 
 
 body {
-	
+	background-image: url('/Pics/night.jpg');
 	background-color: #000060;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
