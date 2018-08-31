@@ -22,7 +22,22 @@ img {
 	transition: transform 0.5s ease;
 }
 
+a{
+
+	width: 25%;
+	
+	margin: 1.8%;
+	
+	transition: transform 0.5s ease;
+}
+
+
 img:hover{
+	transform: scale(1.25);
+
+}
+
+a:hover{
 	transform: scale(1.25);
 
 }
